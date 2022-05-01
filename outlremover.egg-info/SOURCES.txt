@@ -1,0 +1,9 @@
+README.md
+setup.py
+outlremover/OutlierRemover.py
+outlremover/__init__.py
+outlremover.egg-info/PKG-INFO
+outlremover.egg-info/SOURCES.txt
+outlremover.egg-info/dependency_links.txt
+outlremover.egg-info/requires.txt
+outlremover.egg-info/top_level.txt
